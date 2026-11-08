@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../CQURMediateR/CQURMediateR.csproj" Id="0e478cde-2b95-45ab-bb9a-9c70569e171e" />
   <Project Path="RepositoryCRUDOperations.csproj" />
 </Solution>

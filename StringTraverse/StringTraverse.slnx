@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../DataAccessLayer/DataAccessLayer.csproj" Id="f2a4c546-316c-4450-8791-a2808ba19a67" />
+  <Project Path="../LinqJoins/LinqJoins.csproj" Id="f47c0b7a-4a02-40c0-aa5e-aa973bbe7e2a" />
+  <Project Path="../Polindrome-StringChecks/Polindrome-StringChecks.csproj" />
+  <Project Path="../S3App-Api/S3App-Api.csproj" Id="bc66af33-d320-4d23-b7d8-17e7b54b7286" />
+  <Project Path="../Swap_StringCharactersOfWord/Swap_StringCharactersOfWord.csproj" Id="467e743e-b995-48b8-8d2a-443c522742dc" />
+  <Project Path="../TaskDelay/TaskDelay.csproj" Id="d282fa4c-e2ba-481e-b3d0-c83564941a4b" />
+  <Project Path="../Yield-Usages/Yield-Usages.csproj" Id="b6efa356-b3f3-4d39-92f5-8c73fccf313c" />
+  <Project Path="Reverse-Sentence.csproj" />
+</Solution>
