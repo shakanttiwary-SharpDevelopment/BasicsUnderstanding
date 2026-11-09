@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../CustomMiddleWareApis/CustomMiddleWareApis.csproj" Id="e6a73834-bebe-4502-995a-bedb658e7834" />
   <Project Path="../DataAccessLayer/DataAccessLayer.csproj" Id="f2a4c546-316c-4450-8791-a2808ba19a67" />
   <Project Path="../LinqJoins/LinqJoins.csproj" Id="f47c0b7a-4a02-40c0-aa5e-aa973bbe7e2a" />
   <Project Path="../Polindrome-StringChecks/Polindrome-StringChecks.csproj" />
